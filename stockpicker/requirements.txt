@@ -1,0 +1,11 @@
+streamlit
+pandas
+pandas_datareader
+altair
+plotly
+yfinance
+yahooquery
+datetime
+finta
+matplotlib
+mplfinance
