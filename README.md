@@ -16,3 +16,6 @@ import datetime
 ## Data source
 All data is extracted from yahoofinace API using free tier . Financetoolkit is another usefull library that you might want to explore if you are willing to 
 pay for data subscription. Since this is a demo app, I decided to use yahoofinance.
+
+
+https://huggingface.co/spaces/jontziv/StockAnalyzer
