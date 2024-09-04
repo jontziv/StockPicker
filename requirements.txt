@@ -9,3 +9,4 @@ datetime
 finta
 matplotlib
 mplfinance
+gunicorn
